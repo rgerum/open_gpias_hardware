@@ -1,0 +1,30 @@
+Solid Edge nach STEP übersetzen
+Datum: Donnerstag,November 22,2018 09:29
+Ausgabedatei: D:\Transfer\Cad\Solid_Edge\Werner\SensorBar.stp
+Autor: Unknown
+Organisation: Unknown
+Ausgangssystem: Solid Edge
+
+Hardware:
+Prozessor: Intel(R) Core(TM) i7-2920XM CPU @ 2.50GHz
+Betriebssystem: Windows 7 Enterprise Edition Service Pack 1
+Installierter Speicher: 15.95 GB
+
+Software-Informationen
+Parasolid-Version: 29.0.122
+PSBodyShop-Version: 29.0.68
+Step-Adapterversion: 2.0.152
+Solid Edge-Version: 109.00.00.111 x64
+
+STEP-Exportoptionen
+Exportformat: AP214
+Konstruktionsbleche exportieren: Aus
+Konstruktionsvolumen exportieren: Aus
+Konstruktionsdrähte exportieren: Aus
+Nur angezeigte Teile exportieren: Aus
+Einheiten exportieren: Millimeters
+Namen von Teilkomponenten exportieren als Unicode: Aus
+
+Phase 1 von 1 - Parasolid in Fremddatentypen übersetzen...
+Übersetzungsvorgang ist abgeschlossen
+Zum Übersetzen benötigte Zeit:00 : 00 : 00
